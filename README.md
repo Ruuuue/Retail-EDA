@@ -20,7 +20,7 @@ A Date column was converted to a datetime format.
 New columns were created from Date:
 Year, Month, Weekday, and Hour.
 
-###5. Data Analysis
+### 5. Data Analysis
 Total Revenue: Calculated by multiplying Units_Purchased by Amount_Spent.
 Top Products: The most sold products were identified based on total units purchased.
 Retention Rate: Percentage of customers who made repeat purchases was calculated.
